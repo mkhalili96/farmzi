@@ -1,2 +1,2 @@
-# sheepshop
-Spring Boot + React JS online Livestock store
+# farmzi
+Spring Boot + ReactJS online store
